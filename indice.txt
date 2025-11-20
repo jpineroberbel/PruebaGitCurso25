@@ -3,3 +3,4 @@ Capitulo 2. Flujo de trabajo
 Capitulo 3. Repositorios
 Capitulo 4. Uso de GitHub
 Capitulo 5. Epilogo
+Capitulo 6. Como coger sueño con GIT
