@@ -5,3 +5,5 @@ Capitulo 4. Uso de GitHub
 Capitulo 5. Epilogo
 Capitulo 6. Como coger sueño con GIT
 El JULIO SE ROMPE EL BRAZO
+EL JULIO SE DESCARGA GIT
+asdsadasdad
